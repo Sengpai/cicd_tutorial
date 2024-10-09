@@ -1,0 +1,5 @@
+# Ignore Firefox cache files
+.cache/
+.mozilla/
+.config/Qlipper/
+.xsession-errors
